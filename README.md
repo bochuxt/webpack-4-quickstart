@@ -1,3 +1,7 @@
+# https://github.com/bochuxt/webpack-4-quickstart
+# https://www.valentinog.com/blog/react-redux-tutorial-beginners/
+
+
 # webpack-4-quickstart
 > Webpack 4 tutorial: All You Need to Know, from 0 Conf to Production Mode
 
